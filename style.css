@@ -100,11 +100,10 @@ body{
 .slider-text{
     background: #264653;
     color: white;
-    padding: 1.45rem;
+    padding: 3rem 2.55rem;
 }
-.slide-2 .slider-text{
-    padding: 1.41rem;
-}
+
+
 .slider-text p{
     font-size: 16px;
     
