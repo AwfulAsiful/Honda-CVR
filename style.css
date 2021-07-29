@@ -1,0 +1,132 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+
+/* Common Styles */
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+/* Header styling */
+#header-section{
+    background: #264653;
+    color: white;
+    padding-bottom: 2rem;
+
+}
+.intro-text{
+    font-size: 16px;
+    color: #dfd9d9;
+}
+.purchase-btn{
+    background: #E76F51;
+    border-radius: 5px;
+    border: none;
+    padding: 15px;
+    color: white;
+}
+.modal-btn:nth-child(1){
+    background: #E76F51;
+    border-radius: 5px;
+    color: white;
+    border: none;
+}
+.modal-btn:nth-child(2)
+{
+    background: #264653;
+    border-radius: 5px;
+    color: white;
+    border: none;
+}
+
+#credit-card{
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+/* featured-bikes styling */
+.featured-bikes{
+    margin-top: 2rem;
+    
+}
+
+.featured-bikes img{
+    width: 100%;
+    padding-left: 1rem;
+}
+
+/* Latest News Styling */
+
+.card{
+    padding: 1rem;
+    border-radius: 15px;
+    margin-right: .5rem;
+}
+.card-text{
+    font-size: 16px;
+    color: #6C6C6C;
+}
+
+.read-more-btn{
+    background: #E76F51;
+    border-radius: 5px;
+    border: none;
+    padding: 15px;
+    color: white;
+}
+
+/* Happy Clients Styling */
+.user-name{
+    color: #23A6F0;
+}
+
+.ratings{
+    color: #E76F51;
+}
+
+/* FAQ Section Styling */
+.accordion-item{
+   margin-bottom: 1rem;
+   
+}
+.acc-texts{
+    font-size: 16px;
+}
+
+/* Banner Slider Styling */
+.slider-text{
+    background: #264653;
+    color: white;
+    padding: 1.45rem;
+}
+.slide-2 .slider-text{
+    padding: 1.41rem;
+}
+.slider-text p{
+    font-size: 16px;
+    
+}
+
+.video-btn{
+    background: #E76F51;
+    border-radius: 5px;
+    border: none;
+    padding: 15px;
+    color: white;
+}
+
+/* News and events Styling */
+.news-group .card{
+   height: 50%;
+}
+.news-btn{
+    background: #E76F51;
+    border-radius: 5px;
+    border: none;
+    margin-top: 1rem;
+    padding: 15px;
+    color: white;
+}
